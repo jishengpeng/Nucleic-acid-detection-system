@@ -1,6 +1,6 @@
 # 2022.6.13后更新全部源代码和仓库的完善
 ## 吉林大学软件工程软构件与中间件课设（核酸检测系统）
-#### 利用javaEE的技术栈开发一个核酸检测系统。不关注前端页面美化，主要是写交互的逻辑。用到的主要技术为JSP,CSS,Servlet,JDBC。用到的javaee特有的规范为有状态会话Bean，MDB，JMS，JPA。
+#### 利用JAVAEE的技术栈开发一个核酸检测系统。不关注前端页面美化，主要是写交互的逻辑。用到的主要技术为JSP,CSS,Servlet,JDBC。用到的JAVAEE特有的规范为有状态会话Bean，MDB，JMS，JPA。
 
 ## 运行界面
 ![image](https://user-images.githubusercontent.com/78149477/173069639-17e0f59a-13ee-46fe-982e-61734f8565a8.png)
